@@ -1,4 +1,4 @@
-# ![CodeGrid Logo](./546c839c-07f6-4e3b-92ff-c631f7daeaa6.png)
+# ![CodeGrid Logo](./codegrid-logo.jpg)
 
 ## CodeGrid — Onde o código se conecta
 
